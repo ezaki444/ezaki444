@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [VPN demo](https://github.com/ezaki444/VPN-demo)
+  - [VPN setup and usage](https://github.com/ezaki444/VPN-demo)
   - [osTicket: Post-Installation Configuration](https://github.com/ezaki444/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ezaki444/ticket-lifecycle)
 - <b>Microsoft Azure</b>
